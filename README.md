@@ -7,7 +7,7 @@ RideWithMe is a cab sharing android android application that helps you find your
 college students who frequently travel to airports frequently.This will also help to make new friends and save money    
 
 ## Features
-Makes it easy for the recipients to look for blood donors in emergency situations,helps in making contact easily.
+
 Included features are:
 1. User Database
 2. Authentication of user
