@@ -1,5 +1,5 @@
 <p align="center">
-    <image src="" width="200">
+    <image src="images/logo.png" width="200">
         </p>
 
 # About RideWithMe
