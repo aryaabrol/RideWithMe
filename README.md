@@ -4,7 +4,7 @@
 
 # About RideWithMe
 RideWithMe is a cab sharing android android application that helps you find your cab partner while travelling long routes.It is made specially for 
-college students who frequently travel to airports frequently.This will also help to make new friends and save money    
+college students who frequently travel to airports frequently.This will also help to make new friends and save money!  
 
 ## Features
 
